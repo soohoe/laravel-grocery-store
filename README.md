@@ -27,13 +27,10 @@ composer install
 
 4. Update the `.env` file with your database connection details (database name, username, and password).
 
-
 5. Run the database migrations:
 
 php artisan migrate
 
-markdown
-Copy code
 
 6. Start the development server:
 
