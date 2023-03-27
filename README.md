@@ -35,12 +35,9 @@ php artisan migrate
 markdown
 Copy code
 
-8. Start the development server:
+6. Start the development server:
 
 php artisan serve
-
-csharp
-Copy code
 
 Now, visit `http://127.0.0.1:8000` in your browser to access the Laravel Grocery Store application.
 
